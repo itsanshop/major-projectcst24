@@ -1,3 +1,10 @@
+Team Members:-
+
+1.Ansh Gupta
+2.Aditya A Navale
+3.Ruchi Singhal
+
+
 As cities become more densely populated, traffic management becomes increasingly complex. A new smart automatic traffic management system is tackling these challenges by utilizing IoT (Internet of Things) and machine learning technologies. By analyzing real-time traffic data, this innovative system can optimize traffic flow, increase safety, and reduce congestion, providing a seamless transportation experience for all. With features like real-time traffic monitoring, automatic incident detection, and dynamic traffic signal optimization, this system is revolutionizing the way traffic is managed in urban areas. Whether you're driving, walking, or taking public transportation, this system is designed to make your commute safer and more efficient using YOLO Technology. Overall, the smart automatic traffic management system represents a major step forward in urban transportation technology, and has the potential to significantly improve the quality of life for millions of people around the world.
 
 Problem Statement
