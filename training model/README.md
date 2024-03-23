@@ -1,36 +1,33 @@
-# Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm
+#                                     **FINAL YEAR PROJECT :** 
 
 
+# **Intelligent Traffic Management System using Machine Learning Model**
 
+##  Team Members : Ashwin.G, Anandhakumar.P, Avinash.V, Dinakaran.K.P
 
+--- 
 
-As the problem of urban traffic congestion intensifies, there is a pressing need for the introduction of advanced technology and equipment to improve the state-of-theart of traffic control. The current methods used such as timers or human control are proved to be inferior to alleviate this crisis. In this paper, a system to control the traffic by measuring the realtime vehicle density using canny edge detection with digital image processing is proposed. This imposing traffic control system offers significant improvement in response time, vehicle management, automation, reliability and overall efficiency over the existing systems. Besides that, the complete technique from image acquisition to edge detection and finally green signal allotment using four sample images of different traffic conditions is illustrated with proper schematics and the final results are verified by hardware implementation.
+## **Main Modules** : 
 
-**Output**:
+**1. Machine Learning Model Development** ✅
+>1. Installing underlying Framework
+>2. Defining the Dataset 
+>3. Configuring the Dataset according to YOLO model
+>4. Converting the chosen dataset to YOLO Format
 
+**2. Training - YOLO Machine Learning Model with IDD Dataset** ✅
+>1. Write custom training config
+>2. Start training the model after defining the class files
+>3. Calculating mAP for our model with IDD Dataset
+>4. Creating weights for our model
 
-**Uploading traffic image  and analyzing**
+**3. YOLO Machine Learning Model - Deployment** ⏳
+>1. Non-Max Suppression
+>2. Vehicle Detection
+>3. Counting number of vehicles present.
 
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/46fdb7b9-c226-4495-91a7-62a350eb56a5)
-
-
-
-
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/38d49693-f768-487a-915f-0923e94f58ff)
-
-
-
-**'''Comparing Captured image and referencing image'''**.
-
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/3532e3c3-e8c4-45b3-9872-c5b1253293a1)
-
-**White Pixel Count**
-
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/90c1d1e4-7dc5-434f-ab72-e38f19983c18)
-
-**Time for Green Light**
-
-![image](https://github.com/somsai359/Density-Based-Smart-Traffic-Control-System-Using-Canny-Edge-Detection-Algorithm-for-Congregating-Tra/assets/76832603/9b19d7aa-7229-407a-a2ea-c38211b34bd6)
-
-
-
+**4. Dynamic Signal Switching** 🚦
+>1. Average Signal Open/Close Time
+>2. Lane Open/Close Function
+>3. Dynamic to Static at abnormal conditions.
+---
