@@ -3,7 +3,7 @@
 
 # **Intelligent Traffic Management System using Machine Learning Model**
 
-##  Team Members : Ashwin.G, Anandhakumar.P, Avinash.V, Dinakaran.K.P
+##  Team Members : Aditya A Navale; Ansh Gupta; Ruchi Singhal
 
 --- 
 
